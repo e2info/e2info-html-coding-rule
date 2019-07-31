@@ -2,8 +2,10 @@
 
 ## 目的
 
-[株式会社イーツー・インフォ](https://www.e2info.co.jp/)のHTMLコーディングルールです
+* [株式会社イーツー・インフォ](https://www.e2info.co.jp/)のHTMLコーディングルールです
 汎用性の高いHTMLを利用するために最低限の規約を設けます
+* 外部にHTMLコーディングを依頼する際の基準とします
+
 
 ## 内容
 
@@ -114,6 +116,11 @@ JavaScriptでの処理が必要になるなど、実装の手間が増えるた�
 ```
 <a class="submit>送信</a>
 ```
+
+### 画像リソースの最適化
+
+[画像を最適化する | PageSpeed Insights | Google Developers](https://developers.google.com/speed/docs/insights/OptimizeImages?hl=ja)
+にあるとおり、サイトで利用する画像は必ず最適化をおこなってください。
 
 
 ![イーツー・インフォロゴ](https://raw.githubusercontent.com/e2info/e2info-warehouse/master/images/logo/logo100x100_transparent.png)
